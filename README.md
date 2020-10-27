@@ -1,8 +1,23 @@
-### Olá 👋
+### Olá 👋 eu sou Hugo
 
-- 🌱 Eu estou aprendendo agora:
-  + Flutter
-  + Electron
+- 📚 Já tenho conhecimento sobre:
+  ✔️ HTML & CSS
+  ✔️ Javascript
+  ✔️ React
+  ✔️ PHP
+  ✔️ NodeJs
+  ✔️ MySql
+  ✔️ Linux
+  ✔️ Orientação a objetos
+  ✔️ Algoritimos basicos
+
+
+- 🌱 Eu estou aprendendo agora ...
+  📑 Flutter
+  📑 Electron
+  📑 Android
+  📑 Kotlin
+
 
 <!--
 **hugoFelippe/hugoFelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
