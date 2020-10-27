@@ -1,22 +1,24 @@
 ### Olá 👋 eu sou Hugo
 
 - 📚 Já tenho conhecimento sobre:
-  ✔️ HTML & CSS
-  ✔️ Javascript
-  ✔️ React
-  ✔️ PHP
-  ✔️ NodeJs
-  ✔️ MySql
-  ✔️ Linux
-  ✔️ Orientação a objetos
-  ✔️ Algoritimos basicos
+
+  + ✔️ HTML & CSS
+  + ✔️ Javascript
+  + ✔️ React
+  + ✔️ PHP
+  + ✔️ NodeJs
+  + ✔️ MySql
+  + ✔️ Linux
+  + ✔️ Orientação a objetos
+  + ✔️ Algoritimos basicos
 
 
 - 🌱 Eu estou aprendendo agora ...
-  📑 Flutter
-  📑 Electron
-  📑 Android
-  📑 Kotlin
+
+  + 📑 Flutter
+  + 📑 Electron
+  + 📑 Android
+  + 📑 Kotlin
 
 
 <!--
