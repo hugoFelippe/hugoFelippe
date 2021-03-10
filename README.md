@@ -17,6 +17,7 @@
     📑 Electron
     📑 Android
     📑 Kotlin
+    📑 Elixir
 
 🔭 Estou pensando em iniciar alguns projetos ...
 
