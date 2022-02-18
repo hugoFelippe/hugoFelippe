@@ -28,10 +28,6 @@
    + Informações de conexão
    + Informações do dispositivo
 
- - Uma aplicação (Web/Mobile) de gerenciamento de projetos para desenvolvedores
-   + integração com vscode (time-track e task-track)
-   + múltiplas formas de visualização e organização
-
 <!--
 **hugoFelippe/hugoFelippe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
