@@ -4,12 +4,11 @@
 
     ✔️ HTML & CSS
     ✔️ Javascript
-    ✔️ React
+    ✔️ Typescript
     ✔️ PHP
     ✔️ NodeJs
     ✔️ MySql
     ✔️ Linux
-    ✔️ Orientação a objetos
 
 🌱 Eu estou aprendendo agora ...
 
@@ -17,7 +16,6 @@
     📑 Electron
     📑 Android
     📑 Kotlin
-    📑 Elixir
 
 🔭 Estou pensando em iniciar alguns projetos ...
 
